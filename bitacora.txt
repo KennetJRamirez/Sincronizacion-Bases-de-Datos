@@ -1,0 +1,6 @@
+[2023-09-01 00:57:39]Sincronizacion de las BD
+[2023-09-01 00:57:57]Registro Eliminado DPI: 7852369785231
+[2023-09-01 01:02:46]Registro Nuevo DPI: 1478522222301
+[2023-09-01 01:03:07]Sincronizacion de las BD
+[2023-09-01 01:03:45]Registro Eliminado DPI: 1478522222301
+[2023-09-01 01:03:48]Registro Eliminado DPI: 7852369785231
